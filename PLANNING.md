@@ -1,6 +1,6 @@
 # Aubrey's List
 
-- [ ] Add README
+- [x] Add README
 - [ ] Setup Template Engine
 - [ ] Setup Integration Tests
 - [ ] Setup Unit Tests
