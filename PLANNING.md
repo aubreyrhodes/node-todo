@@ -3,7 +3,7 @@
 - [x] Add README
 - [x] Setup Template Engine
 - [x] Setup Integration Tests
-- [ ] Setup Deploy
+- [x] Setup Deploy
 - [ ] Setup CSS Reset
 - [ ] Design in Sketch
 - [ ] Setup DB Integration
