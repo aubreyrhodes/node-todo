@@ -27,6 +27,12 @@ npm install
 
  ## 👩‍💻Developing
 
+ ### 🔬Running Tests
+
+ ```bash
+ npm test
+ ```
+
  ### Views
 
  The project uses [express-handlebars](https://github.com/ericf/express-handlebars) as a template engine. Page templates can be found in the `views` directory and layouts can be found in `views/layouts`.
