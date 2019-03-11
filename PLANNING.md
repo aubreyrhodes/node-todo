@@ -4,7 +4,7 @@
 - [x] Setup Template Engine
 - [x] Setup Integration Tests
 - [x] Setup Deploy
-- [ ] Setup CSS Reset
+- [x] Setup CSS Reset
 - [ ] Design in Sketch
 - [ ] Setup DB Integration
 - [ ] Setup Login with Github
