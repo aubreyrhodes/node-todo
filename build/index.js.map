@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["port","App","listen"],"mappings":"aAAA,0D;;AAEA,IAAMA,IAAI,GAAG,IAAb;;AAEAC,gBAAIC,MAAJ,CAAWF,IAAX","sourcesContent":["import App from './server';\n\nconst port = 3000;\n\nApp.listen(port);"],"file":"index.js"}

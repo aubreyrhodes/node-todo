@@ -1,6 +1,6 @@
 process.env.NODE_ENV = 'test';
 
-import App from '../../server';
+import App from '../../src/server';
 import http from 'http';
 import Browser from 'zombie';
 
