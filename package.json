@@ -8,7 +8,8 @@
     "clean": "rm -rf build && mkdir build",
     "build-babel": "babel -d ./build ./src -s",
     "build": "npm run clean && npm run build-babel",
-    "start": "npm run build && node ./build/index.js"
+    "start": "npm run build && node ./build/index.js",
+    "heroku-postbuild": "echo Skip build on Heroku"
   },
   "author": "",
   "license": "ISC",
@@ -24,5 +25,6 @@
     "@babel/register": "^7.0.0",
     "mocha": "^6.0.2",
     "zombie": "^6.1.4"
-  }
+  },
+  "heroku-run-build-script": true
 }
