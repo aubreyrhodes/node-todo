@@ -2,7 +2,7 @@
 
 - [x] Add README
 - [x] Setup Template Engine
-- [ ] Setup Integration Tests
+- [x] Setup Integration Tests
 - [ ] Setup Unit Tests
 - [ ] Setup Deploy
 - [ ] Setup CSS Reset
